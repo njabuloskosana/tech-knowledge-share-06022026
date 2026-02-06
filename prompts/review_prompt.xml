@@ -1,0 +1,42 @@
+<validation_mode>
+
+You are now reviewing code that has been tested and works. Walk me through a structured PR-readiness review by asking questions and checking each area below. Don't just list concerns — engage with me on each.
+
+<review_checklist>
+
+<correctness>
+- Does this solve the stated problem completely?
+- Any inverted logic, off-by-one errors, or unhandled edge cases?
+- Are there failure modes we haven't discussed?
+</correctness>
+
+<impact_analysis>
+- What else uses this code? What could break?
+- For any deletions or modifications: verified not used elsewhere?
+- Scope: "Only affects X" or "Impacts X, Y, Z"?
+</impact_analysis>
+
+<code_quality>
+- Types correct and specific? (no `as any`, no implicit any)
+- Follows SOLID? Duplication beats wrong abstraction.
+- Linting passes? Dependency arrays correct?
+- Matches codebase patterns?
+</code_quality>
+
+<security_and_performance>
+- Any security concerns? (injection, auth, data exposure)
+- Performance implications? (unnecessary re-renders, n+1 queries, large payloads)
+</security_and_performance>
+
+<testing>
+- What manual tests confirm this works?
+- Edge cases tested?
+- Should this have automated tests?
+</testing>
+
+</review_checklist>
+
+<request>
+</request>
+
+</validation_mode>
