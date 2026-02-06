@@ -86,24 +86,57 @@ Build incrementally:
 ## The Complete Prompt
 
 \\\
-Create a playful, romantic Valentine's Day 'Ask Out' web app...
-
+Create a playful, romantic Valentine's Day "Ask Out" web app where anyone can create a personalized Valentine's card to share with their crush.
 Core Concept:
-A single-page app with Creator Mode and Recipient Mode.
-
+A single-page app with two modes: Creator Mode (make your card) and Recipient Mode (view the card via shared link).
 Creator Flow:
-- 'Create Your Valentine' heading
-- Input for recipient's name
-- Photo upload (compress for URL storage)
-- Preview and shareable link generation
 
-The 'No' Button Magic:
-- Grows cartoon legs and RUNS AWAY
-- Text: 'No'  'Nope!'  'NEVER!'
-- Colors: purple  orange  red
-- Impossible to catch!
+Landing page with "Create Your Valentine 💕" heading
+Input field for recipient's name
+Photo upload area (drag & drop or click) - compress image for URL storage
+"See Preview" button → shows fully interactive preview
+Preview has a subtle "← Back" button (top corner) to edit
+"Get Shareable Link" button at bottom generates a URL with all data encoded in the hash (no backend needed)
+Copy link button with satisfying feedback
 
-[Full prompt in slide notes]
+The Fun Part - The Card:
+
+Sweet header: "Hey [Name] 💕" with romantic subtitle
+Circular photo frame with soft shadow
+"Will you be my Valentine? 🌹" question
+Two buttons side by side: "Yes! 💖" and "No"
+
+The "No" Button Magic (this is the star feature!):
+
+When hovered or clicked, the No button grows little cartoon legs and RUNS AWAY
+Legs should animate like they're running
+Button moves to random position each time
+Text changes progressively: "No" → "Nope!" → "Really?" → "Think again!" → "Too slow!" → "Can't catch me!" → "Hehe!" → "NEVER!"
+Color evolves: starts calm (purple), becomes scared (orange/yellow), then panicked (red) - legs match!
+Impossible to actually click it successfully
+
+The "Yes" Flow:
+
+First Yes → "Wait really?! 🥺 You love me that much?" with two confirmation buttons
+Second Yes → Celebration screen with "I Love You!" and animated hearts
+
+Vibe & Aesthetics:
+
+Warm romantic gradient background (pinks, magentas, soft corals)
+Floating rose petals animation
+Twinkling sparkles scattered around
+Rose emoji as card decoration
+Soft, rounded card with subtle shadow
+Playful but heartfelt - cute not cheesy
+Mobile responsive
+
+Technical Notes:
+
+Pure frontend, no backend - all data stored in URL hash (base64 encoded JSON)
+Compress uploaded images to keep URLs manageable
+Works on mobile (touch events for the runaway button)
+
+Make it delightful, whimsical, and impossible to say no to! 💕
 \\\
 
 *One prompt. One working app.*
