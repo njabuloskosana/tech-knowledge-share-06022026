@@ -1,12 +1,16 @@
-﻿# Welcome! 
+﻿![Entelect](../entelect_branding/banner.jpg)
 
-[Back to main README](../README.md) | [Next: What is Lovable?](02-lovable.md)
+# Welcome! 
+
+---
+
+##  [Home](../README.md) |  [Next: What is Lovable?](02-lovable.md)
 
 ---
 
 ## Building with AI: Practical Tools in Action
 
-Today we're going to build something together - using nothing but words.
+Today we're going to build something together  using nothing but words.
 
 No code. No design skills. Just clear communication with AI.
 
@@ -14,11 +18,11 @@ No code. No design skills. Just clear communication with AI.
 
 ## What's on the Menu
 
- **Part 1: Love & Lovable** - Building a Valentine's app that makes it impossible to say no
-
- **Part 2: Art & Gemini** - Creating a romantic comic with AI
-
- **Part 3: For the Techies** - Advanced prompt engineering (XML, chain-of-thought, compliance)
+| Part | Topic | What You'll See |
+|------|-------|-----------------|
+|  | **Love & Lovable** | Building a Valentine's app that makes it impossible to say no |
+|  | **Art & Gemini** | Creating a romantic comic with AI |
+|  | **For the Techies** | Advanced prompt engineering (XML, chain-of-thought) |
 
 ---
 
@@ -41,3 +45,7 @@ Detailed, structured prompt = exactly what you imagined.
 What if you could build a web app for that... in 5 minutes?
 
 **Let's see how.** 
+
+---
+
+##  [Home](../README.md) |  [Next: What is Lovable?](02-lovable.md)

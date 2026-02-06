@@ -1,6 +1,8 @@
 ﻿# The Valentine's App 
 
-[Back to main README](../README.md) | [Previous](02-lovable.md) | [Next: The 5-Part Framework](04-framework.md)
+---
+
+##  [Previous](02-lovable.md) |  [Home](../README.md) |  [Next](04-framework.md)
 
 ---
 
@@ -32,8 +34,8 @@ A playful web app where you create a personalized Valentine's card and share it 
 When they hover over 'No':
 1. The button grows cartoon legs
 2. It runs to a random position
-3. Text changes: 'No' -> 'Nope!' -> 'Really?' -> 'Can't catch me!' -> 'NEVER!'
-4. Color shifts: purple -> orange -> red (panic mode!)
+3. Text changes: 'No'  'Nope!'  'Really?'  'Can't catch me!'  'NEVER!'
+4. Color shifts: purple  orange  red (panic mode!)
 
 **Result:** It's impossible to say no. 
 
@@ -54,7 +56,7 @@ When they hover over 'No':
 - Twinkling sparkles
 - Playful but heartfelt
 
-**No backend needed** - everything encoded in the URL!
+**No backend needed**  everything encoded in the URL!
 
 ---
 
@@ -67,3 +69,7 @@ This is complex:
 - Technical requirements
 
 **Answer: The 5-Part Prompting Framework**
+
+---
+
+##  [Previous](02-lovable.md) |  [Home](../README.md) |  [Next](04-framework.md)

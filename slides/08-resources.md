@@ -1,6 +1,8 @@
 ﻿# Resources & Next Steps 
 
-[Back to main README](../README.md) | [Previous](07-advanced-prompts.md)
+---
+
+##  [Previous](07-advanced-prompts.md) |  [Home](../README.md)
 
 ---
 
@@ -54,4 +56,4 @@ Start small. Show a friend. Iterate.
 
 ---
 
-[ Back to README](../README.md)
+##  [Previous](07-advanced-prompts.md) |  [Home](../README.md)

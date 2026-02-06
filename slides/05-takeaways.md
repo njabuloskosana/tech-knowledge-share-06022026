@@ -1,6 +1,8 @@
 ﻿# Key Takeaways 
 
-[Back to main README](../README.md) | [Previous](04-framework.md) | [Next: Creating AI Art](06-gemini-guide.md)
+---
+
+##  [Previous](04-framework.md) |  [Home](../README.md) |  [Next](06-gemini-guide.md)
 
 ---
 
@@ -46,3 +48,7 @@ What if you want to create **images** with AI?
 Same principles. Different tool.
 
 **Let's make some art.**
+
+---
+
+##  [Previous](04-framework.md) |  [Home](../README.md) |  [Next](06-gemini-guide.md)

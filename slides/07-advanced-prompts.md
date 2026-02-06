@@ -1,6 +1,8 @@
 ﻿# For the Techies: Advanced Prompting 
 
-[Back to main README](../README.md) | [Previous](06-gemini-guide.md) | [Next: Resources](08-resources.md)
+---
+
+##  [Previous](06-gemini-guide.md) |  [Home](../README.md) |  [Next](08-resources.md)
 
 ---
 
@@ -79,6 +81,7 @@ These techniques are for code generation, reviews, and automation workflows.
 ## Real-World Workflow
 
 **Request Prompt:** Sets the rules for how the AI should code
+
 **Review Prompt:** Structured checklist for PR-readiness
 
 Both use XML for structure and negative constraints to prevent hallucination.
@@ -112,3 +115,7 @@ Both use XML for structure and negative constraints to prevent hallucination.
 4. **Semantic tags** make prompts self-documenting
 
 *These techniques level up your AI coding workflows.*
+
+---
+
+##  [Previous](06-gemini-guide.md) |  [Home](../README.md) |  [Next](08-resources.md)

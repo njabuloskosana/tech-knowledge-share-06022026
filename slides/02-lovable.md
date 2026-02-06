@@ -1,6 +1,8 @@
 ﻿# What is Lovable? 
 
-[Back to main README](../README.md) | [Previous](01-intro.md) | [Next: The Valentine's App](03-project.md)
+---
+
+##  [Previous](01-intro.md) |  [Home](../README.md) |  [Next](03-project.md)
 
 ---
 
@@ -37,7 +39,7 @@ No coding. No design tools. Just describe what you want.
 ## Perfect For...
 
  Quick prototypes and MVPs
- Interactive demos and presentations  
+ Interactive demos and presentations
  Personal projects (like asking someone to be your Valentine!)
  Testing ideas before investing in full development
 
@@ -52,3 +54,7 @@ We're going to build a Valentine's app with:
 - Celebration animations
 
 **And we'll do it with one well-crafted prompt.**
+
+---
+
+##  [Previous](01-intro.md) |  [Home](../README.md) |  [Next](03-project.md)

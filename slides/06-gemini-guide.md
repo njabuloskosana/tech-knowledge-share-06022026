@@ -1,6 +1,8 @@
 ﻿# Creating AI Art with Gemini 
 
-[Back to main README](../README.md) | [Previous](05-takeaways.md) | [Next: Advanced Prompts](07-advanced-prompts.md)
+---
+
+##  [Previous](05-takeaways.md) |  [Home](../README.md) |  [Next](07-advanced-prompts.md)
 
 ---
 
@@ -15,9 +17,9 @@ Everything we learned about prompting Lovable works for AI art too.
 ## Our Project: A Valentine's Comic
 
 A 3-panel romantic cartoon showing:
-1. **The Preparation** - Setting up the perfect moment
-2. **The Ask** - Presenting the rose
-3. **The Yes** - Celebration!
+1. **The Preparation**  Setting up the perfect moment
+2. **The Ask**  Presenting the rose
+3. **The Yes**  Celebration!
 
 *Let's see how to prompt this.*
 
@@ -59,7 +61,7 @@ exaggerated but tender caricature, 4:3 ratio.
 
 **Examples:** 'Zapiro-style', 'Johannesburg skyline', specific colors
 
-**Emotional arc:** Preparation -> Perfect moment -> Joyful acceptance
+**Emotional arc:** Preparation  Perfect moment  Joyful acceptance
 
 ---
 
@@ -96,3 +98,7 @@ Perfect for:
 - Just because you love someone
 
 **Now let's talk to the techies...** 
+
+---
+
+##  [Previous](05-takeaways.md) |  [Home](../README.md) |  [Next](07-advanced-prompts.md)

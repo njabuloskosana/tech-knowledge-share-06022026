@@ -1,14 +1,28 @@
-﻿# Practical AI Tools 
+﻿![Entelect Banner](entelect_branding/banner.jpg)
+
+# Practical AI Tools 
+
+### Entelect Tech Knowledge Share
 
 **A 30-minute journey from idea to creation using AI**
 
 ---
 
+## About
+
+This presentation was created for an **Entelect Tech Knowledge Share** session. It demonstrates how to leverage AI tools like **Lovable** and **Gemini** to rapidly prototype ideas  from building interactive web apps to generating custom artwork  all through the power of effective prompting.
+
+Whether you're a developer looking to speed up your workflow or someone curious about no-code AI tools, this guide will show you practical techniques you can use today.
+
+---
+
 ## What You'll Learn
 
-Turn concepts into reality with AI  no coding expertise required.
+ Turn concepts into reality with AI  no coding expertise required.
 
-We'll explore **Lovable** for building web apps, **Gemini** for creating art, and **advanced prompting** for technical workflows.
+- **Lovable**  Build web apps from natural language
+- **Gemini**  Create AI-generated art and images
+- **Advanced Prompting**  Techniques for technical workflows
 
 ---
 
@@ -25,11 +39,19 @@ We'll explore **Lovable** for building web apps, **Gemini** for creating art, an
 | 07 | [Advanced Prompting](slides/07-advanced-prompts.md) | 5 min |
 | 08 | [Resources & Next Steps](slides/08-resources.md) | 2 min |
 
+###  [Start the Presentation](slides/01-intro.md)
+
 ---
 
 ## The Key Insight
 
-> \"The quality of AI output depends on the quality of your input.\"
+> *"The quality of AI output depends on the quality of your input."*
+
+---
+
+## Author
+
+**Njabulo Skosana** | Entelect
 
 ---
 

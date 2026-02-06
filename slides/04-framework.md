@@ -1,6 +1,8 @@
 ﻿# The 5-Part Prompting Framework 
 
-[Back to main README](../README.md) | [Previous](03-project.md) | [Next: Key Takeaways](05-takeaways.md)
+---
+
+##  [Previous](03-project.md) |  [Home](../README.md) |  [Next](05-takeaways.md)
 
 ---
 
@@ -17,8 +19,8 @@ Lovable taught us 5 principles that make prompts work. Let's see each one using 
 **Do say:** 'When hovered, the No button grows cartoon legs and RUNS AWAY to a random position'
 
 **Our specifics:**
-- Text: 'No' -> 'Nope!' -> 'Really?' -> 'Think again!' -> 'Too slow!' -> 'Can't catch me!' -> 'Hehe!' -> 'NEVER!'
-- Colors: purple (calm) -> orange (scared) -> red (panicked)
+- Text: 'No'  'Nope!'  'Really?'  'Think again!'  'Too slow!'  'Can't catch me!'  'Hehe!'  'NEVER!'
+- Colors: purple (calm)  orange (scared)  red (panicked)
 - 'Legs should animate like they're running'
 
 *The more specific, the less the AI guesses.*
@@ -29,13 +31,13 @@ Lovable taught us 5 principles that make prompts work. Let's see each one using 
 
 Break your prompt into clear sections:
 
-- **Core Concept** - What is this app?
-- **Creator Flow** - How do they make a card?
-- **The Card** - What does it look like?
-- **The No Button Magic** - The fun part!
-- **The Yes Flow** - What happens when they say yes?
-- **Vibe & Aesthetics** - Colors, animations, feel
-- **Technical Notes** - How should it work?
+- **Core Concept**  What is this app?
+- **Creator Flow**  How do they make a card?
+- **The Card**  What does it look like?
+- **The No Button Magic**  The fun part!
+- **The Yes Flow**  What happens when they say yes?
+- **Vibe & Aesthetics**  Colors, animations, feel
+- **Technical Notes**  How should it work?
 
 *Structure helps the AI understand relationships between parts.*
 
@@ -97,11 +99,15 @@ Creator Flow:
 
 The 'No' Button Magic:
 - Grows cartoon legs and RUNS AWAY
-- Text: 'No' -> 'Nope!' -> 'NEVER!'
-- Colors: purple -> orange -> red
+- Text: 'No'  'Nope!'  'NEVER!'
+- Colors: purple  orange  red
 - Impossible to catch!
 
 [Full prompt in slide notes]
 \\\
 
 *One prompt. One working app.*
+
+---
+
+##  [Previous](03-project.md) |  [Home](../README.md) |  [Next](05-takeaways.md)
